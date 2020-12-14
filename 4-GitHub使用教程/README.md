@@ -15,3 +15,5 @@
 1. VScode 中如何编写[Markdown文件](https://zhuanlan.zhihu.com/p/56943330)
 2. VScode 中编写MD文件时想插入图片，并且想上传到GitHub中去: [Picgo图床](https://zhuanlan.zhihu.com/p/131584831)
 3. VScode 中编写MD文件时想插入数学公式，并且想上传到Github中：[Math to Image](https://medium.com/spencerweekly/vs-code-math-to-image-write-latex-math-equations-in-github-markdown-the-easy-way-9fa8b81dc910) 选择 remote 摸索即可
+4. 用 [svn](https://blog.csdn.net/old__tree/article/details/80671781) 从Github中下载指定文件夹
+5. vscode中因为pylint报 [torch的错误](https://blog.csdn.net/qq_33757398/article/details/107673099)
