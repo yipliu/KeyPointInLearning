@@ -1,6 +1,6 @@
 本文档整理自己学习过程中所参考的教程
 # 配置
-1. Win  VScode 与 Github如何联合使用：[YouTube视频教程](https://www.youtube.com/c/DevWorldInfo/videos)
+1. Win  VScode 与 Github如何联合使用：[YouTube视频教程](https://www.youtube.com/c/DevWorldInfo/videos)，[Git设置教程](https://zhuanlan.zhihu.com/p/23167699)
 2. Ubunt 系统用上诉方法一直遇见密码问题，没办法只能采用git+github：[Youtube视频教程](https://www.youtube.com/watch?v=ZMgLZUYd8Cw)
 简单记录就如下几步：
    - 查询当前文件状态
