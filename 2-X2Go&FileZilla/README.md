@@ -1,6 +1,6 @@
 实验室的Ubuntu服务器往往是很多同学一起使用，因此我们要实习如下几个功能
 - 多人使用 ==> 个人账户
-   - Ubuntu上创建自己的[账户]((http://note.youdao.com/noteshare?id=509ebb3d2a673114114b62bfbce246f8))
+   - Ubuntu上创建自己的[账户](http://note.youdao.com/noteshare?id=509ebb3d2a673114114b62bfbce246f8)
 - 远程控制 ==> 安装 X2GO
    - 服务器上安装[X2GO Server](https://wiki.x2go.org/doku.php/doc:installation:x2goserver)
    - 服务器上安装XFCE4作为服务器的虚拟化桌面："sudo apt-get install xfce4"
