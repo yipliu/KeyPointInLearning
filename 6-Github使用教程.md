@@ -23,3 +23,7 @@
    将网页链接复制后，使用 wget xxxx 即可下载
 
 6. vscode中因为pylint报 [torch的错误](https://blog.csdn.net/qq_33757398/article/details/107673099)
+
+
+7. 下载某一个分支代码命令 
+   git clone -b corl2018(分支名称) https://github.com/lil-lab/drif.git
