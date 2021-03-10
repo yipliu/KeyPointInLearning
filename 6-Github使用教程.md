@@ -16,6 +16,12 @@
 2. VScode 中编写MD文件时想插入图片，并且想上传到GitHub中去: [Picgo图床](https://zhuanlan.zhihu.com/p/131584831)
 3. VScode 中编写MD文件时想插入数学公式，并且想上传到Github中：[Math to Image](https://medium.com/spencerweekly/vs-code-math-to-image-write-latex-math-equations-in-github-markdown-the-easy-way-9fa8b81dc910) 选择 remote 摸索即可
 4. 用 [svn](https://blog.csdn.net/old__tree/article/details/80671781) 从Github中下载指定文件夹
+
+将 /tree/master/ 换成 /trunk/
+
+svn checkout https://github.com/xx
+
+
 5. 用 **Raw** 模式下载Github中某文件夹下的[某单个文件](https://www.cnblogs.com/lllcccddd/p/11264054.html)：
    - 在Github中打开该代码
    - 切换Raw模式

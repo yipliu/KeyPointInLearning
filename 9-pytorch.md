@@ -1,0 +1,1 @@
+1. pytorch中的广播机制:[broadcasting semantics](https://zhuanlan.zhihu.com/p/338298069)
