@@ -17,3 +17,6 @@
 # Ubuntu 修改 hosts
 sudo vim etc/hosts
 在 [ip网](https://site.ip138.com/raw.Githubusercontent.com/) 查询相应网站ip输入即可
+
+3. VScode 基础[教程](https://www.bilibili.com/video/BV14U4y1p7LF)
+- 创建.gitignore 文件，里面写入忽略的文件夹名称
